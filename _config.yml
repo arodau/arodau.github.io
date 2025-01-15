@@ -12,7 +12,7 @@ title                    : "Personal page of Adrien Rodau"
 title_separator          : "-"
 name                     : &name "Adrien Rodau"
 description              : &description "Post-doc in Mathematics"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://arodau.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arodau/arodau.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Université de Lille"
   employer         : "Laboratoire Paul Painlevé"
   uri              : # URL
-  email            : "adrien.rodau@univ-lille.fr"
+  email            : "%61%64%72%69%65%6E%2E%72%6F%64%61%75%40%75%6E%69%76%2D%6C%69%6C%6C%65%2E%66%72"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -93,7 +93,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
