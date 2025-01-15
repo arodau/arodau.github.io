@@ -1,7 +1,7 @@
 ---
 title: "Quid of homology spheres?"
 collection: talks
-type: "Popularisation talk"
+type: "Lecture"
 permalink: /talks/2023-12-15-Quid_homology_spheres
 venue: "QUID Seminar"
 date: 2023-12-15

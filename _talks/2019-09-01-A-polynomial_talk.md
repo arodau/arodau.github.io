@@ -1,7 +1,7 @@
 ---
 title: "A Slope Invariant and the A-polynomial of knots"
 collection: talks
-type: "Talk"
+type: "Conference talk"
 permalink: /talks/2021-09-01-A-polynomial_talk
 venue: "CNRS Braids Workgroup meeting - Geometric and quantum topology"
 date: 2021-09-01
