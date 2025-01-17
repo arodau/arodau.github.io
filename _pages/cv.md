@@ -13,7 +13,7 @@ Work experience
 ======
 * **Post-doc researcher** (2024/02 -- 2025/09)
   * [Laboratoire Paul Painlevé](https://math.univ-lille.fr/) of [Université de Lille](https://www.univ-lille.fr/), France
-  * Supervisor: [Paolo Aceto](https://www.researchgate.net/profile/Paolo-Aceto)
+  * Supervisor: [Paolo Aceto](https://sites.google.com/view/paoloaceto/home)
 
 * **ATER** (2022 -- 2024/01)
   * [IMT](https://www.math.univ-toulouse.fr/fr/) & [Université Toulouse III Paul Sabatier](https://www.univ-tlse3.fr/home) (France)
