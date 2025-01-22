@@ -8,4 +8,4 @@ date: 2023-12-15
 location: "Université Toulouse III Paul Sabatier, France"
 ---
 
-Popularisation talk for Master students. [Abstract here.](https://indico.math.cnrs.fr/event/10951/)
+Lecture talk for Master students. [Abstract here.](https://indico.math.cnrs.fr/event/10951/)

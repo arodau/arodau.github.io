@@ -12,18 +12,18 @@ redirect_from:
 Work experience
 ======
 * **Post-doc researcher** (2024/02 -- 2025/09)
-  * [Laboratoire Paul Painlevé](https://math.univ-lille.fr/) of [Université de Lille](https://www.univ-lille.fr/), France
+  * [Laboratoire Paul Painlevé](https://math.univ-lille.fr/) of [Université de Lille](https://www.univ-lille.fr/) (France)
   * Supervisor: [Paolo Aceto](https://sites.google.com/view/paoloaceto/home)
 
 * **ATER** (2022 -- 2024/01)
   * [IMT](https://www.math.univ-toulouse.fr/fr/) & [Université Toulouse III Paul Sabatier](https://www.univ-tlse3.fr/home) (France)
 
 * **PhD Student** (2019 -- 2023)
-  * [LMAP](https://lma-umr5142.univ-pau.fr/en/home.html) of [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/en/home.html), France & [IUMA](https://iuma.unizar.es/) of [Universidad de Zaragoza](https://www.unizar.es/), Spain
+  * [LMAP](https://lma-umr5142.univ-pau.fr/en/home.html) of [Université de Pau et des Pays de l’Adour](https://www.univ-pau.fr/en/home.html) (France) & [IUMA](https://iuma.unizar.es/) of [Universidad de Zaragoza](https://www.unizar.es/) (Spain)
   * Subject: [Peripheral structures and topological invariants of knotted submanifolds](https://theses.hal.science/tel-04719845)
   * Supervisors: [Vincent Florens](https://sites.google.com/view/vflorens/accueil) & [Enrique Artal](https://riemann.unizar.es/~artal/)
 
-*[ATER]: Attaché Temporaire d'Enseignement et de Recherche
+*[ATER]: Attaché Temporaire d'Enseignement et de Recherche (Research and part-time teaching temporary position)
 
 Education
 ======
@@ -31,10 +31,12 @@ Education
 * Magistère in Mathematics, Université de Strasbourg (France), 2015 -- 2019
 * Master's degree in Fundamental Mathematics, Aix-Marseille Université (France), 2019
 * Agrégation externe de Mathématiques, 2018
-* Bachelor's degree in Mathematics, Université de Strasbourg (France), 2012 -- 2016
+* Bachelor's degree in Mathematics, Université de Strasbourg (France), 2015 -- 2016
+* CPGE MPSI -- MP*, Lycée Pierre de Fermat, 2012 -- 2015
 
 *[Agrégation]: French national competitive exam for CPGE & High School teaching positions
 *[Magistère]: Selective reinforced course parallel to the Master's and Bachelor’s degree
+*[CPGE]: Classes Préparatoires aux Grandes Écoles (Selective reinforced course equivalent to Bachelor’s degree in Mathematics & Physics 1st and 2nd years)
   
 <!--Skills
 ======
