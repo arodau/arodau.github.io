@@ -11,6 +11,9 @@ redirect_from:
 
 Work experience
 ======
+* **ATER** (2025/09 -- 2026/08)
+  * [I2M](https://www.i2m.univ-amu.fr/en/) of [Aix-Marseille Université](https://www.univ-amu.fr/) (France)
+
 * **Post-doc researcher** (2024/02 -- 2025/09)
   * [Laboratoire Paul Painlevé](https://math.univ-lille.fr/) of [Université de Lille](https://www.univ-lille.fr/) (France)
   * Supervisor: [Paolo Aceto](https://sites.google.com/view/paoloaceto/home)
